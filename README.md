@@ -1,3 +1,4 @@
 # Rosettacode.org puzzle solutions
-R programmer trying to learn Python by literal translation of code, either via some random R files or by solving puzzles from Rosetta code site
+R programmer learning to program in python via solving Rosetta code puzzles.
+Often might include tricky problems from other sources
 
